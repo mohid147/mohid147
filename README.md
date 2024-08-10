@@ -1,1 +1,3 @@
-A highly motivated and innovative Web Developer and Data Analyst with a passion for creating impactful and user-friendly digital solutions. With hands-on experience in developing responsive web applications and conducting in-depth data analysis, I am eager to contribute to projects that push the boundaries of technology. Seeking opportunities to leverage my skills in a dynamic work environment.
+👋 Hi, I'm Mohammad MohidA passionate Web Developer and Data Analyst with a knack for creating dynamic, responsive web applications. Proficient in HTML, CSS, JavaScript, React, Node.js, and MySQL, I enjoy building intuitive user experiences and uncovering insights through data analysis.
+
+💬 Let's Connect: Open to collaborations! Reach me at mohidmohammad95@gmail.com.
